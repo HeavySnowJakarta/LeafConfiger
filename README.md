@@ -1,7 +1,7 @@
 # International Support
 Translation works of this project is encouraged.Please contact me if you want to start a new language.Now the services in following languages are provided:
 
-* [简体中文](INTERSUPPORT/简体中文)
+* [简体中文](https://github.com/HeavySnowJakarta/LeafConfiger/blob/main/INTERSUPPORT/简体中文.md)
 
 # Profile
 
